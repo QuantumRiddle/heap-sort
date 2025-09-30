@@ -30,6 +30,7 @@ func main() {
 
 	fmt.Fscan(os.Stdin, &x)
 
+
 }
 
 func sortTree(arr []int, lenght, compare, move int) ([]int, int, int) {
